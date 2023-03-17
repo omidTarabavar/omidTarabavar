@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omidTarabavar
 - 👀 I’m interested in Programming - Music - Books - Chess
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java projects 
+- 🌱 I’m currently improving my skills in Algorithms & Data Structures
+- 💞️ I’m looking to collaborate on Programming Contests
 - 📫 How to reach me -> @hope1300 on telegram
 
 <!---
