@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omidTarabavar
-- 👀 I’m interested in Programming - Music - Books - Chess
+- 👀 I’m interested in Philosophy - Programming - Music - Books - Chess
 - 🌱 I’m currently improving my skills in NLP
 - 💞️ I’m looking to collaborate on NLP Projects
 - 📫 How to reach me -> @hope1300 on telegram
