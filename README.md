@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @omidTarabavar
 - 🔍 I’m interested in Philosophy, Programming, Music, Books, and Chess
-- 📚 Research Interests: Explainable AI (XAI), Privacy, Trust, and Fairness in AI, with a particular focus on Natural Language Processing (NLP) and its ethical implications
-- 🌱 Currently enhancing my skills in NLP and exploring its applications in AI fairness and transparency
-- 🤝 I’m looking to collaborate on NLP-related projects, especially those addressing bias and explainability
+- 📚 Research Interests: Reasoning Induction in Large Language Models (LLMs), Reinforcement Learning (RL), Evaluation and Benchmarking of Large Language Models (LLMs), Neural Network Architectures.
 - 📩 How to reach me: omidtarab1300@gmail.com
 
 <!---
