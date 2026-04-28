@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omidTarabavar
-- 🔍 I’m interested in Philosophy, Programming, Music, Books, and Chess
+- 🔍 I’m interested in Philosophy, AI, Music, Books, and Chess
 - 📚 Research Interests: Multimodal LLMs, Reasoning Induction in LLMs, Reinforcement Learning, Evaluation and Benchmarking of LLMs, Neural Network Architectures.
 - 📩 How to reach me: omidtarab1300@gmail.com - o.tarabavar@aut.ac.ir
 
