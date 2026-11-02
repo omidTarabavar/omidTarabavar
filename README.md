@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @omidTarabavar
-- 🔍 I’m interested in Philosophy, AI, Music, Books, and Chess
-- 📚 Research Interests: Multimodal LLMs, Reasoning Induction in LLMs, Reinforcement Learning, Evaluation and Benchmarking of LLMs, Neural Network Architectures.
-- 📩 How to reach me: omidtarab1300@gmail.com - o.tarabavar@aut.ac.ir
+### Hi, I'm Omid Tarabavar 👋
+M.Sc. student in Artificial Intelligence at Amirkabir University of Technology (NLP Lab).
 
-<!---
-omidTarabavar/omidTarabavar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Research interests:** multimodal machine learning, misinformation and fact verification, LLM evaluation and agentic systems, and trustworthy ML under distribution shift.
+
+**Current work:** multimodal RAG for fake news detection (M.Sc. thesis) · evidence retrieval for multimodal fact verification (paper under review)
+
+📫 omidtarab1300@gmail.com · o.tarabavar@aut.ac.ir
+
+Outside research: philosophy, books, music, and chess.
